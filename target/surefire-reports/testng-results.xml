@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="org.example.AppTest" duration-ms="26024" started-at="2020-10-16T23:45:23 IST" finished-at="2020-10-16T23:45:49 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="26024" started-at="2020-10-16T23:45:23 IST" finished-at="2020-10-16T23:45:49 IST">
+      <class name="org.example.AppTest">
+        <test-method status="PASS" signature="InitialConfigTest()[pri:0, instance:org.example.AppTest@5025a98f]" name="InitialConfigTest" is-config="true" duration-ms="11402" started-at="2020-10-16T23:45:23 IST" description="Application Configuration" finished-at="2020-10-16T23:45:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitialConfigTest -->
+        <test-method status="PASS" signature="clearMsgDisplay()[pri:0, instance:org.example.AppTest@5025a98f]" name="clearMsgDisplay" is-config="true" duration-ms="234" started-at="2020-10-16T23:45:35 IST" description="Application Configuration" finished-at="2020-10-16T23:45:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearMsgDisplay -->
+        <test-method status="PASS" signature="Test_1_Add()[pri:0, instance:org.example.AppTest@5025a98f]" name="Test_1_Add" duration-ms="3541" started-at="2020-10-16T23:45:35 IST" description="Verify Add Functionality" finished-at="2020-10-16T23:45:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_1_Add -->
+        <test-method status="PASS" signature="clearMsgDisplay()[pri:0, instance:org.example.AppTest@5025a98f]" name="clearMsgDisplay" is-config="true" duration-ms="156" started-at="2020-10-16T23:45:39 IST" description="Application Configuration" finished-at="2020-10-16T23:45:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearMsgDisplay -->
+        <test-method status="PASS" signature="Test_2_sub()[pri:0, instance:org.example.AppTest@5025a98f]" name="Test_2_sub" duration-ms="3215" started-at="2020-10-16T23:45:39 IST" description="Verify Subtraction Functionality" finished-at="2020-10-16T23:45:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_2_sub -->
+        <test-method status="PASS" signature="clearMsgDisplay()[pri:0, instance:org.example.AppTest@5025a98f]" name="clearMsgDisplay" is-config="true" duration-ms="261" started-at="2020-10-16T23:45:42 IST" description="Application Configuration" finished-at="2020-10-16T23:45:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearMsgDisplay -->
+        <test-method status="PASS" signature="Test_3_Mul()[pri:0, instance:org.example.AppTest@5025a98f]" name="Test_3_Mul" duration-ms="3153" started-at="2020-10-16T23:45:42 IST" description="Verify Multiplication Functionality" finished-at="2020-10-16T23:45:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_3_Mul -->
+        <test-method status="PASS" signature="clearMsgDisplay()[pri:0, instance:org.example.AppTest@5025a98f]" name="clearMsgDisplay" is-config="true" duration-ms="282" started-at="2020-10-16T23:45:45 IST" description="Application Configuration" finished-at="2020-10-16T23:45:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearMsgDisplay -->
+        <test-method status="PASS" signature="Test_4_Div()[pri:0, instance:org.example.AppTest@5025a98f]" name="Test_4_Div" duration-ms="3288" started-at="2020-10-16T23:45:46 IST" description="Verify Division Functionality" finished-at="2020-10-16T23:45:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_4_Div -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.example.AppTest@5025a98f]" name="tearDown" is-config="true" duration-ms="444" started-at="2020-10-16T23:45:49 IST" description="Application Close" finished-at="2020-10-16T23:45:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.example.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- org.example.AppTest -->
+</testng-results>

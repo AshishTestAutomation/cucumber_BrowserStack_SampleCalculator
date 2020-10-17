@@ -1,0 +1,1 @@
+This is a sample framework (and project) for Cucumber/Maven/Cloud-Browser Stack

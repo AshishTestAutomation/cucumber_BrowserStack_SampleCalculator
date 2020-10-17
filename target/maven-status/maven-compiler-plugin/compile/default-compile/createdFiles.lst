@@ -1,0 +1,5 @@
+org\example\BrowserStackAppTest.class
+org\example\BrowserStackSampleTest.class
+org\example\TestRunner.class
+org\example\SmokeTests.class
+org\example\WikiTest.class
