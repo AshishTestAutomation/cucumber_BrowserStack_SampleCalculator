@@ -1,5 +1,5 @@
 Feature: Basic Calculation in Calculator
-  Scenario: Test with Addition of two given numbers
+  Scenario: Test with basic calculation of two given numbers
     Given Open Calculator
     When adding number 1 and number 2
     Then Result should be sum of the two given numbers

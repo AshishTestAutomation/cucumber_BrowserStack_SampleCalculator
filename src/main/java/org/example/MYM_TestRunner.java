@@ -5,8 +5,8 @@ import io.cucumber.junit.CucumberOptions;
 import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = "Features",
+@CucumberOptions(features = "Features/MYM.feature",
                     glue="org.example",
                     plugin={"html:target/cucumber-html-report.html"})
-public class TestRunner {
+public class MYM_TestRunner {
 }
